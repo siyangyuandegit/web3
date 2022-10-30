@@ -1,6 +1,5 @@
-export const WHITELIST_CONTRACT_ADDRESS = "0x5C395CEE7164d019d32424CF53B9307FC057e6CF";
-export const abi = [
-    {
+export const WHITELIST_CONTRACT_ADDRESS = "0xa2eceBF37f54265E49f3C728c1145551659135C8";
+export const abi = [{
       "inputs": [
         {
           "internalType": "uint8",
@@ -63,4 +62,4 @@ export const abi = [
       "stateMutability": "view",
       "type": "function"
     }
-  ]
+]
